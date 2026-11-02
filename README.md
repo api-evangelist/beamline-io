@@ -74,9 +74,23 @@ Everything profiled for Beamline UI is published on APIs.io rather than in this 
 
 ### APIs (1)
 
-- Beamline UI API — Beamline UI provides a component library API documented at https://beamline.io/docs. No public machine‑readable contract was found; the MCP endpoint…
+- [Beamline UI API](https://apis.io/apis/beamline-io/beamline-ui-api/) — Beamline UI provides a component library API documented at https://beamline.io/docs. No public machine‑readable contract was found; the MCP endpoint…
 
-_These APIs get their own pages on APIs.io at the next catalog build, and this README is re-rendered with links when they do._
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Beamline Io Domain Security](https://apis.io/security/beamline-io/beamline-io-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Beamline Io Plans Pricing](https://apis.io/plans/beamline-io/beamline-io-plans-pricing/)
 
 ## Where to find this API
 
@@ -84,13 +98,56 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 - [Website](https://beamline.io/)
 - [Documentation](https://beamline.io/docs)
+- [Getting started](https://beamline.io/docs/customize#interface-sound-media-and-voice)
 - [Pricing](https://beamline.io/pricing)
+- [Sign up](https://beamline.io/components/signup-form)
+- [Changelog](https://beamline.io/changelog)
 - [Terms of service](https://beamline.io/terms)
 - [Privacy policy](https://beamline.io/privacy)
+- [GitHub](https://github.com/dprvda)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/beamline-io/](https://apis.io/providers/beamline-io/).
+**Kin Score 27.6** — thin · rubric 0.25.0 · scored 2026-11-02
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 21.1 |
+| Developer ergonomics | 28.6 |
+| Access clarity | 63.7 |
+
+**Agent readiness 24.7** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 19.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/beamline-io/](https://apis.io/providers/beamline-io/).
 
 ## How this profile is made
 
