@@ -1,4 +1,4 @@
-# beamline-io
+# Beamline UI
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,42 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-beamline-io is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://beamline.io/
+Beamline UI provides a library of polished, editable React components and complete screens for building custom applications. Offering over 200 components and 50 full-screen templates, it targets SaaS apps, trading tools, dashboards, and AI workspaces. Based in Kyiv, Ukraine, the platform emphasizes responsive design, motion, and micro‑interactions, with a focus on developer productivity and seamless integration.
+
+**Areas:** UI · React · Components · SaaS · OpenSource
+
+## Beamline UI on APIs.io
+
+Everything profiled for Beamline UI is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/beamline-io/](https://apis.io/providers/beamline-io/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- Beamline UI API — Beamline UI provides a component library API documented at https://beamline.io/docs. No public machine‑readable contract was found; the MCP endpoint…
+
+_These APIs get their own pages on APIs.io at the next catalog build, and this README is re-rendered with links when they do._
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://beamline.io/)
+- [Documentation](https://beamline.io/docs)
+- [Pricing](https://beamline.io/pricing)
+- [Terms of service](https://beamline.io/terms)
+- [Privacy policy](https://beamline.io/privacy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/beamline-io/](https://apis.io/providers/beamline-io/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Beamline UI: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/beamline-io/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
